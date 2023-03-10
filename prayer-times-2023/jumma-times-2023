@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "London Muslim Mosque",
+      "address": "151 Oxford St W",
+      "time": "12:00 PM"
+    },
+    {
+      "id": 2,
+      "title": "London Muslim Mosque",
+      "address": "151 Oxford St W",
+      "time": "1:00 PM"
+    },
+    {
+      "id": 3,
+      "title": "Muslim Wellness Center",
+      "address": "990 Gainsborough Rd",
+      "time": "1:15 PM"
+    },
+    {
+      "id": 4,
+      "title": "MAC Hyde Park Center",
+      "address": "1175 Hyde Park Unit 9",
+      "time": "1:30 PM"
+    },
+    {
+      "id": 5,
+      "title": "London Muslim Mosque",
+      "address": "151 Oxford St W",
+      "time": "2:00 PM"
+    },
+    {
+      "id": 6,
+      "title": "MAC Westmount Center",
+      "address": "1175 Hyde Park Unit 9",
+      "time": "1:45 PM"
+    },
+    {
+      "id": 7,
+      "title": "Islamic Center",
+      "address": "951 Pond Mills Rd",
+      "time": "2:30 PM"
+    }
+  ]
